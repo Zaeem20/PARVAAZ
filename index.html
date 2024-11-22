@@ -32,17 +32,25 @@
         </div>
     </header>
 
-    <div class="items-center">
+    <div class="relative h-screen w-full">
+        <!-- Background Video -->
+        <video autoplay loop muted class="absolute inset-0 w-full h-full object-cover">
+            <source src="assets/video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
 
-        <img src="assets/mumbai_1.jpg" class="w-full h-full backdrop-blur-1">
-    </div>
+        <!-- Overlay -->
+        <div class="absolute inset-0 bg-black bg-opacity-45"></div>
 
-    <div>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quod unde distinctio dolore, beatae fugit sit
-            a, deserunt aliquid quaerat omnis qui, totam voluptatibus quae. Architecto, sequi? Cupiditate, inventore
-            repellat.
-        </p>
+        <!-- Text Content -->
+        <div class="relative flex items-center justify-center h-full text-center text-white">
+            <div>
+                <h1 class="text-4xl md:text-6xl font-bold mb-4">PARVAAZ 2k24</h1>
+                <p class="text-lg md:text-xl mb-6">
+                    Ignite your Inner Passion
+                </p>
+            </div>
+        </div>
     </div>
 
 
