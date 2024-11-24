@@ -12,7 +12,7 @@
 
     .animate-marquee {
         display: flex;
-        animation: scroll 30s linear infinite;
+        animation: scroll 15s linear infinite;
     }
 
     @keyframes scroll {
@@ -46,13 +46,13 @@
 
     <div class="relative h-screen w-full">
         <!-- Background Video -->
-        <video autoplay loop muted class="absolute inset-0 w-full h-full object-cover">
+        <video autoplay loop muted class="fixed inset-0 w-full h-full object-cover">
             <source src="assets/video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
 
         <!-- Overlay -->
-        <div class="absolute inset-0 bg-black bg-opacity-45"></div>
+        <div class="fixed inset-0 bg-black bg-opacity-45"></div>
 
         <!-- Text Content -->
         <div class="relative flex items-center justify-center h-full text-center text-white">
@@ -92,38 +92,40 @@
     </div>
     </div>
    <div class="bg-gray-800 p-5 ">
-            <font size="6" face="verdana" color="white" style="padding-left:530px;">
+            <h2 size="6" face="verdana" color="white" style="padding-left:530px;">
         Our Sponsors!
-        </font>
-    <div class="overflow-hidden relative">
-        <div class="flex items-center gap-8 animate-marquee whitespace-nowrap">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+1" alt="Sponsor 1" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+2" alt="Sponsor 2" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+3" alt="Sponsor 3" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+4" alt="Sponsor 4" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+5" alt="Sponsor 5" class="h-16">
+        </h2>
+        <div class="bg-gray-800 p-5 rounded-lg">
+             <div class="overflow-hidden relative">
+                <div class="flex items-center gap-8 animate-marquee whitespace-nowrap">
+                     <img src="./assets/new.png" alt="Sponsor 1" class="h-40 w-40 rounded-full">
+                     <img src="./assets/xff.jpg" alt="Sponsor 2" class="h-40 w-40 rounded-full">
+                     <img src="./assets/images.png" alt="Sponsor 3" class="h-40 w-40 rounded-full">
+                     <img src="./assets/red.png" alt="Sponsor 4" class="h-40 w-40 rounded-full">
+                     <img src="./assets/marvel.jpg" alt="Sponsor 5" class="h-40 w-40 rounded-full">
             <!-- Repeat sponsors for seamless scrolling -->
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+1" alt="Sponsor 1" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+2" alt="Sponsor 2" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+3" alt="Sponsor 3" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+4" alt="Sponsor 4" class="h-16">
-            <img src="https://via.placeholder.com/120x60?text=Sponsor+5" alt="Sponsor 5" class="h-16">
-        </div>
-    </div>
+                     <img src="./assets/new.png" alt="Sponsor 1" class="h-40 w-40 rounded-full">
+                        <img src="./assets/xff.jpg" alt="Sponsor 2" class="h-40 w-40 rounded-full">
+                        <img src="./assets/images.png" alt="Sponsor 3" class="h-40 w-40 rounded-full">
+                        <img src="./assets/red.png" alt="Sponsor 4" class="h-40 w-40 rounded-full">
+                        <img src="./assets/marvel.jpg" alt="Sponsor 5" class="h-40 w-40 rounded-full">
+                </div>
+            </div>
+        </div>   
+</div>
 </div>
 </div>
    
-
-</body>
-<div class="bg-black bg-opacity-50 p-10 rounded-lg">
+<div class="bg-black bg-opacity-50 p-10 rounded-lg text-white"
+style="paddng-top:50px;">
     <footer class="flex flex-col space-y-10 justify-center m-10">
-        <nav class="flex justify-center flex-wrap gap-6 text-white font-bold">
-            <a class="hover:text-gray-900" href="#">Home</a>
-            <a class="hover:text-gray-900" href="#">About</a>
-            <a class="hover:text-gray-900" href="#">Services</a>
-            <a class="hover:text-gray-900" href="#">Media</a>
-            <a class="hover:text-gray-900" href="#">Gallery</a>
-            <a class="hover:text-gray-900" href="#">Contact</a>
+        <nav class="flex justify-center flex-wrap gap-6 text-white font-medium">
+            <a class="hover:text-amber-500" href="./index.html">Home</a>
+            <a class="hover:text-amber-500" href="./about.html">About</a>
+            <a class="hover:text-amber-500" href="#">Services</a>
+            <a class="hover:text-amber-500" href="#">Media</a>
+            <a class="hover:text-amber-500" href="#">Gallery</a>
+            <a class="hover:text-amber-500" href="#">Contact</a>
         </nav>
 
         <div class="flex justify-center space-x-5">
@@ -143,9 +145,10 @@
                 <img src="https://img.icons8.com/fluent/30/000000/twitter.png" />
             </a>
         </div>
-        <p class="text-center text-gray-700 font-medium">&copy; 2024 Parvaaz</p>
+        <p class="text-center text-white font-medium">&copy; 2024 Parvaaz</p>
     </footer>
-</div>
+</body>
+
 
 <script>
     // Set the date we're counting down to
