@@ -1,0 +1,605 @@
+[
+    {
+      "eventName": "PPT",
+      "description": [],
+      "hostDepartment": "Sarus/Green Club",
+      "eventType": "NON-IT",
+      "venue": "class",
+      "date": "19 DEC 2024"
+    },
+    {
+      "eventName": "Management Game",
+      "description": [],
+      "hostDepartment": "Commerce",
+      "eventType": "NON-IT",
+      "venue": "class",
+      "date": "19 DEC 2024"
+    },
+    {
+        "eventName": "Poster Competition",
+        "description": [],
+        "hostDepartment": "Physics",
+        "eventType": "NON-IT",
+        "criteria": "The Competition is Open to Students.",
+        "rule": "Participants can submit posters individually.",
+        "venue": "class",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Shell Kalakari",
+        "description": [],
+        "hostDepartment": "Zoology",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rule": [],
+        "venue": "Bio Lab (Degree)",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Best Manager",
+        "description": [],
+        "hostDepartment": "BMS/BAF",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rule": [],
+        "venue": "class",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Essay Writing",
+        "description": [],
+        "hostDepartment": "Hindi",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rule": [],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Quiz Competition",
+        "description": [],
+        "hostDepartment": "Islamic (Jr)",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rule": [],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Slogan & Consumer Market",
+        "description": [],
+        "hostDepartment": "Comm/Eco (Jr)",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rule": [],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "HENNA EVENT (MEHENDI)",
+        "description": "A cultural event where intricate henna designs are applied, symbolizing beauty, love, and celebration.",
+        "hostDepartment": "STUDENT FORUM",
+        "eventType": "NON-IT",
+        "rule": [
+          "Respect cultural traditions.",
+          "Choose a qualified artist.",
+          "Use high-quality henna.",
+          "Prepare the skin before application.",
+          "Select suitable designs.",
+          "Allow time for drying.",
+          "Provide aftercare instructions."
+        ],
+        "venue": "Campus",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "MANICURE ART (NAIL ART)",
+        "description": "Creative nail decoration using various techniques and materials to enhance personal style.",
+        "hostDepartment": "STUDENT FORUM",
+        "eventType": "NON-IT",
+        "rule": [
+          "Clean and shape nails.",
+          "Apply a base coat.",
+          "Choose a design theme.",
+          "Use quality nail polish.",
+          "Seal designs with a top coat."
+        ],
+        "venue": "Campus",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "BGMI - GRAND ARENA (BGMI)",
+        "description": "A battle royale game with immersive gameplay where players compete to be the last one standing.",
+        "hostDepartment": "STUDENT FORUM",
+        "eventType": "GAMING",
+        "rule": [
+          "Players must be 18+ or have parental consent.",
+          "No cheats or toxic behavior.",
+          "Valid account required.",
+          "Comply with game rules."
+        ],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "WINNING ELEVEN (PES - E FOOTBALL)",
+        "description": "Realistic soccer simulation with authentic teams, game modes, and strategic gameplay.",
+        "hostDepartment": "STUDENT FORUM",
+        "eventType": "GAMING",
+        "rule": [
+          "45-minute halves.",
+          "Score goals to win.",
+          "Control ball via passes and dribbles.",
+          "Avoid fouls and offsides."
+        ],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Debate",
+        "description": "A roundtable debate emphasizing critical thinking, structured exchange of ideas, and respectful dialogue.",
+        "hostDepartment": "Student Forum",
+        "eventType": "Non-IT",
+        "rules": [
+          "Respectful dialogue is expected; personal attacks are not tolerated.",
+          "Participants must stay on topic and avoid tangents.",
+          "Each participant has an equal opportunity to speak.",
+          "Time limits will be enforced (e.g., 2-3 minutes per speaker).",
+          "The moderator's decisions are final.",
+          "No interrupting or talking over others.",
+          "Active listening is encouraged; participants should engage with others' ideas.",
+          "No use of offensive language or tone.",
+          "Participants can ask questions and request clarification.",
+          "Rebuttals are allowed but must be respectful.",
+          "No external resources or notes allowed.",
+          "Participants must identify themselves before speaking.",
+          "The debate will start with an opening statement from each participant.",
+          "A closing statement will summarize each participant's key points.",
+          "By participating, individuals agree to abide by these rules and regulations."
+        ],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Investigation Saga (Criminal Mystery)",
+        "description": "A mystery-solving game involving clues and deductive reasoning.",
+        "hostDepartment": "Student Forum",
+        "eventType": "Gaming",
+        "rules": [
+          "The game is open to all individuals who want to participate.",
+          "Participants must be at least 16 years old.",
+          "The game will consist of 5 episodes, each with 10 clues.",
+          "Clues will be revealed one at a time, and participants must analyze and solve each clue before moving on.",
+          "Participants can ask for hints, but this will incur a time penalty.",
+          "The first participant to solve each clue earns bonus points.",
+          "Participants can work individually or in teams (max 4 players per team).",
+          "Team members can discuss clues among themselves.",
+          "All answers must be submitted in writing.",
+          "The game master's decisions are final.",
+          "No external resources or internet searches allowed.",
+          "Participants must keep all clues and solutions confidential.",
+          "In case of a tie, a sudden-death clue will be revealed.",
+          "Winners will receive prizes (e.g., gift cards, trophies, etc.).",
+          "By participating, individuals agree to abide by these rules and regulations."
+        ],
+        "venue": "Classroom",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Cine De Mayo (Blind Fold)",
+        "description": "A team-based game involving trust, strategy, and sensory deprivation, with players navigating and competing while blindfolded.",
+        "hostDepartment": "Biology",
+        "eventType": "Gaming",
+        "rules": [
+          "Two teams of 4-6 players each, with designated Guides.",
+          "Players wear blindfolds, except for Guides.",
+          "Objective: Hunters tag Prey, while Prey evade capture.",
+          "Game area: large, obstacle-filled space (indoor or outdoor).",
+          "Hunters use foam balls or soft projectiles.",
+          "Guides provide verbal cues to their teammates.",
+          "Prey must trust Guides' instructions to move and dodge.",
+          "Hunters can use sound to locate Prey.",
+          "Prey can use sound to evade Hunters.",
+          "Game duration: 10-15 minutes or set time.",
+          "Points system: 1 point per tagged Prey, 2 points for Hunter survival.",
+          "Fouls: physical contact, pushing, or unsportsmanlike conduct.",
+          "Penalty: temporary removal or point deduction.",
+          "Guides can switch roles with teammates during the game.",
+          "Winning team: most points or last team standing."
+        ],
+        "venue": "Campus",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "Healthy Food Making",
+        "description": "Participants will create healthy food dishes.",
+        "hostDepartment": "Biology",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Biology Lab",
+        "date": "19 DEC 2024"
+      },
+      {
+        "eventName": "PPT",
+        "description": "A PowerPoint presentation event.",
+        "hostDepartment": "Economics",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Best Out of Waste",
+        "description": "Creative crafting using waste materials.",
+        "hostDepartment": "Commerce",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Poster Making",
+        "description": "Design and create artistic posters.",
+        "hostDepartment": "English",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Tiara Making",
+        "description": "Participants create decorative tiaras.",
+        "hostDepartment": "Biology",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Bio Lab (Jr)",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Best Business Plan",
+        "description": "Design innovative business plans.",
+        "hostDepartment": "BMS/BAF",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Pebble Making",
+        "description": "Participants craft art using pebbles.",
+        "hostDepartment": "Zoology",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Bio Lab (Deg)",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "COMPUTATIONAL LOGICS (APTITUDE)",
+        "description": "Computational Logics (Aptitude) refers to the application of logical reasoning and mathematical principles to solve problems typically encountered in programming, algorithm design, and data analysis. It involves understanding and applying fundamental concepts such as Boolean algebra, logical operators, and logical inference to create efficient algorithms and solve complex problems. In the realm of aptitude, computational logics are used to assess a candidate's ability to think logically, solve puzzles, and analyze data patterns systematically. Mastery of computational logics enhances problem-solving efficiency and accuracy, making it an essential component of technical assessments and competitive programming. By harnessing computational logics, individuals can effectively translate abstract problems into solvable computational models, driving innovation and precision in various technology-driven fields.",
+        "hostDepartment": "CS & IT",
+        "eventType": "IT",
+        "criteria": "Understand the Problem Statement: Read all problem statements thoroughly before attempting to solve them. Ensure you comprehend the requirements and constraints.",
+        "rules": [
+          "Understand the Problem Statement: Read all problem statements thoroughly before attempting to solve them. Ensure you comprehend the requirements and constraints.",
+          "Use Logical Reasoning: Apply sound logical reasoning and problem-solving techniques. Avoid relying on assumptions without verification.",
+          "Show Your Work: Provide clear and detailed steps for your solutions. This helps in demonstrating your thought process and understanding.",
+          "Adhere to Constraints: Follow any constraints or limitations provided in the problem, such as time, space complexity, or specific requirements.",
+          "Maintain Originality: Ensure all work is original. Plagiarism or copying from others is not permitted.",
+          "Use Provided Tools: Utilize only the tools or programming languages specified for the assessment. Avoid using unauthorized external resources.",
+          "Time Management: Manage your time effectively to ensure you can address all parts of the problem within the allotted timeframe.",
+          "Debug and Validate: Test your solutions thoroughly to ensure accuracy and efficiency. Check for edge cases and validate results against expected outcomes.",
+          "Respect Submission Guidelines: Follow the format and submission guidelines provided for the assessment. This includes adhering to any file naming conventions or submission methods.",
+          "No External Assistance: Do not seek help from others during the assessment. All work must be completed independently.",
+          "Focus on Optimization: Where applicable, strive for optimal solutions in terms of time and space complexity. Aim to write efficient and scalable code.",
+          "Understand Fundamental Concepts: Ensure a solid grasp of fundamental computational logic concepts such as Boolean algebra, logical operators, and data structures.",
+          "Avoid Guesswork: Rely on logical deductions and structured problem-solving approaches rather than guesswork or random attempts."
+        ],
+        "venue": "I.T Lab",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Chess",
+        "description": [],
+        "hostDepartment": "STUDENT FORUM",
+        "eventType": "GAMING",
+        "criteria": [],
+        "rules": [],
+        "venue": "Gymkhana",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "Carrom",
+        "description": [],
+        "hostDepartment": "STUDENT FORUM",
+        "eventType": "GAMING",
+        "criteria": [],
+        "rules": [],
+        "venue": "Gymkhana",
+        "date": "20 DEC 2024"
+      },
+      {
+        "eventName": "PPT",
+        "description": [],
+        "hostDepartment": "Commerce",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "venue": "CLASS",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Poster Competition",
+        "description": [],
+        "hostDepartment": "IT (Jr)",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "venue": "Classroom",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Model Making",
+        "description": [],
+        "hostDepartment": "Biology",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "CLASS",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Poster Making",
+        "description": [],
+        "hostDepartment": "Accountancy",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "VISUAL CAPTURE(PHONE PHOTOGRAPHY)",
+        "description": "Visual capture, or phone photography, is the art of taking stunning images using a smartphone camera. With high-quality cameras and advanced editing software, phone photography has become a popular way to capture life's moments. To take great photos, start by understanding your camera's settings and features, such as HDR, portrait mode, and night mode. Pay attention to lighting, composition, and focus, using natural light and experimenting with angles and perspectives. Experiment with editing apps to enhance colors, contrast, and texture, but remember to keep edits subtle and authentic. Phone photography is all about capturing the moment, so stay curious, keep practicing, and have fun! Whether documenting daily life, traveling, or snapping portraits, phone photography allows you to creatively express yourself and share your unique visual perspective with the world.",
+        "eventType": "NON-IT",
+        "hostDepartment": "Sarus/Green Club",
+        "rules": [
+          "Understand your camera's settings and features.",
+          "Pay attention to lighting, using natural light when possible.",
+          "Experiment with angles and perspectives.",
+          "Focus on your subject, using tap-to-focus or manual focus.",
+          "Simplify the background to avoid distractions.",
+          "Use the rule of thirds for balanced composition.",
+          "Play with depth of field, using portrait mode or aperture control.",
+          "Capture moments, not just poses.",
+          "Experiment with different editing apps and styles.",
+          "Keep edits subtle and authentic.",
+          "Shoot in RAW or high-quality JPEG for better image quality.",
+          "Use a tripod or stabilizer for low-light or long-exposure shots.",
+          "Pay attention to details, such as textures and patterns.",
+          "Tell a story through your photos.",
+          "Practice regularly to improve your skills.",
+          "Have fun and stay curious!"
+        ],
+        "venue": "CLASS",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Handwriting Competition",
+        "description": [],
+        "hostDepartment": "Arabic & Persian",
+        "eventType": "NON-IT",
+        "criteria": "NON DEFINED",
+        "rules": [
+          "Avoid writing that is difficult to read.",
+          "Avoid inconsistent spacing between letters and words.",
+          "Avoid incorrect punctuation and capitalization.",
+          "Avoid poor alignment with lines or margins."
+        ],
+        "venue": "CLASSROOM",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Reel Making",
+        "description": [],
+        "hostDepartment": "BMS/ BAF",
+        "eventType": "NON-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "CLASSROOM",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "LIVE COMEDY ACT(STAND UP COMEDY)",
+        "description": "A Live Comedy Act is a performance where a comedian or comedic performer entertains an audience in real-time, using humor, wit, and creativity to evoke laughter and amusement. This can include stand-up comedy, improv, sketch comedy, or variety shows, featuring jokes, stories, characters, and physical comedy. Live Comedy Acts require quick thinking, sharp instincts, and adaptability to engage with the audience, read their reactions, and adjust the performance on the fly. A good Live Comedy Act can be spontaneous, relatable, and irreverent, often tackling everyday topics, current events, or taboo subjects with humor and irony. The goal is to create a shared experience, building a connection with the audience and leaving them in stitches, with memorable moments and quotable lines that linger long after the show ends. Live Comedy Acts are a unique blend of entertainment, social commentary, and communal joy.",
+        "hostDepartment": "HINDI",
+        "eventType": "NON-IT",
+        "rules": [
+          "Know your audience and tailor your content accordingly.",
+          "Start strong with a hook to grab attention.",
+          "Be authentic, original, and true to your voice.",
+          "Use language, tone, and pacing to control the room.",
+          "Read the audience's reactions and adjust your material.",
+          "Respect boundaries and avoid offending or alienating.",
+          "Use improvisation to handle hecklers or unexpected moments.",
+          "Keep it concise, focused, and well-structured.",
+          "Practice and rehearse to refine your craft.",
+          "Engage with the audience, but maintain control.",
+          "Use physicality, facial expressions, and body language.",
+          "Handle bombing or tough crowds with grace and humor.",
+          "Stay up-to-date with current events and trends.",
+          "Respect fellow comedians and the comedy community.",
+          "Continuously write, experiment, and push your creative limits."
+        ],
+        "venue": "Auditorium",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "SOCCER SHOWDOWN (FOOTBALL QUIZ)",
+        "description": "Calling all football fanatics! Are you ready for a thrilling football quiz challenge? The Football Quiz is your chance to test your knowledge of the beautiful game. Whether you're an expert on World Cup history, Premier League stats, legendary players, or iconic matches, this quiz will cover it all! Prepare to answer questions about football trivia, club history, world records, and unforgettable moments in the sport. The quiz is designed to challenge fans of all levels, from casual supporters to hardcore enthusiasts. Brush up on your football facts, sharpen your memory, and get ready for an exciting showdown! With questions ranging from past tournaments to the present-day game, this quiz will push your knowledge to the limit. Join the Soccer Showdown and prove you're the ultimate football trivia champion!",
+        "hostDepartment": "Sports Club",
+        "eventType": "GAMING",
+        "criteria": [],
+        "rules": [],
+        "venue": "Football Ground",
+        "date": "22 DEC 2024"
+      },
+      {
+        "eventName": "Mystery Chamber (Escape Room)",
+        "description": [],
+        "hostDepartment": "Student Forum",
+        "eventType": "Gaming",
+        "criteria": "Teams of [insert team size, e.g., 2-8 players]",
+        "rules": [
+          "Time Limit: 60 minutes to escape.",
+          "No phones or recording devices.",
+          "No forceful actions or damaging objects.",
+          "Use the clue system for hints.",
+          "Teamwork is key.",
+          "Respect others and the room."
+        ],
+        "venue": "C1",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Human Grid (X&0)",
+        "description": [],
+        "hostDepartment": "Student Forum",
+        "eventType": "Gaming",
+        "rules": [
+          "80 participants arranged in a grid.",
+          "Synchronized movements and gestures.",
+          "Communication is key; use visual or verbal cues.",
+          "Respect personal space and safety."
+        ],
+        "venue": "Campus",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Mid-Air Mayhem (Football Header)",
+        "description": [],
+        "hostDepartment": "Student Forum",
+        "eventType": "Gaming",
+        "criteria": "Two teams of 4-6 players each, with a goalkeeper.",
+        "rules": [
+          "Two teams of 4-6 players each, with a goalkeeper.",
+          "Confined playing area (e.g., penalty box or smaller).",
+          "Objective: score goals solely through headers.",
+          "Game starts with a toss-up or goal kick.",
+          "Players can use any part of their body except hands and arms.",
+          "Only headers are allowed; no volleys or kicks.",
+          "Players can move freely, but no pushing or holding.",
+          "Goalkeepers can use hands, but not hold the ball.",
+          "Scored goals must be headed; no rebounds or deflections.",
+          "Game duration: 10-15 minutes or set time.",
+          "Points system: 1 point per goal, 2 points for headers from outside the penalty area.",
+          "Fouls: holding, pushing, or unsportsmanlike conduct.",
+          "Free headers awarded for fouls within the penalty area.",
+          "Yellow and red cards for repeated fouls or misconduct.",
+          "In case of a tie, play an additional 5-minute period or sudden-death headers."
+        ],
+        "venue": "Campus",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "Mr. & Ms. Parvaaz (2024)",
+        "description": [],
+        "hostDepartment": "Student Forum",
+        "eventType": "Non-IT",
+        "criteria": "Contestants must meet age, residency, and other eligibility criteria specified by the organizers.",
+        "rules": [
+          "Eligibility: Contestants must meet age, residency, and other eligibility criteria specified by the organizers.",
+          "Originality: Contestants must be authentic and original in their responses and performance.",
+          "Respect: Contestants must treat fellow contestants, judges, and organizers with respect and dignity.",
+          "Sportsmanship: Contestants must display good sportsmanship and grace, win or lose.",
+          "No Harassment: No harassment or bullying of fellow contestants or staff will be tolerated."
+        ],
+        "venue": "Class",
+        "date": "21 DEC 2024"
+      },
+      {
+        "eventName": "PPT",
+        "description": [],
+        "hostDepartment": "IT (JR)",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "IT Lab",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Video Making",
+        "description": [],
+        "hostDepartment": "DLLE",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Class",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Poster Making",
+        "description": [],
+        "hostDepartment": "Internal Committee (IC)",
+        "eventType": "Non-IT",
+        "criteria": "Non-IT",
+        "rules": [],
+        "venue": "Classroom",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Mocktails/Smoothie Making",
+        "description": [],
+        "hostDepartment": "Biology",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Bio Lab (Jr)",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Pencil Sketching",
+        "description": [],
+        "hostDepartment": "Sarus/Green Club",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Corporate Chanakya",
+        "description": [],
+        "hostDepartment": "BMS/BAF",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Collage Making Competition",
+        "description": [],
+        "hostDepartment": "English",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "23 DEC 2024"
+      },
+      {
+        "eventName": "Quiz",
+        "description": [],
+        "hostDepartment": "Economics (Jr. Clg)",
+        "eventType": "Non-IT",
+        "criteria": [],
+        "rules": [],
+        "venue": "Classroom",
+        "date": "23 DEC 2024"
+      }
+]
+  
